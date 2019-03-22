@@ -1,3 +1,6 @@
+# This library is now obsolete
+I recommend you try my new ``helping`` library instead -- it's more flexible and powerful, and it's available through Pypi. You can do ``pip install helping``, and you can check out the project [here](https://github.com/ConquerProgramming1/helping).
+
 # mydir
 Improved version of dir(), developed while teaching Python to help students.
 
